@@ -18,12 +18,12 @@
                 </div>
                   <div class="hidden space-x-8 sm:-my-px sm:ms-10 sm:flex">
                     <x-nav-link :href="route('laporan.create')" :active="request()->routeIs('laporan.create')">
-                        {{ __('laporan.create') }}
+                        {{ __('Buat Laporan') }}
                     </x-nav-link>
                 </div>
                  <div class="hidden space-x-8 sm:-my-px sm:ms-10 sm:flex">
                     <x-nav-link :href="route('laporan.index')" :active="request()->routeIs('laporan.index')">
-                        {{ __('laporan.index') }}
+                        {{ __('Daftar Laporan') }}
                     </x-nav-link>
                 </div>
             </div>
