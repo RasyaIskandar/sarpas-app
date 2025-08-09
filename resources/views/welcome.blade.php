@@ -1,13 +1,11 @@
 <!DOCTYPE html>
 <html lang="{{ str_replace('_', '-', app()->getLocale()) }}">
 
-<<<<<<< HEAD
         <title>LaporinAja</title>
-=======
+
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
->>>>>>> 99b3ace4b7c3bab94fb364221192ec465da92f0b
 
     <title>Laravel</title>
 
