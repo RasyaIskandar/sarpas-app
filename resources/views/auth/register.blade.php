@@ -39,7 +39,7 @@
                 Sudah punya akun?
             </a>
             <x-primary-button class="ml-3 px-6 py-2">
-                {{ __('Register') }}
+                {{ __('Daftar') }}
             </x-primary-button>
         </div>
     </form>
